@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>【上園】のポートフォリオ</title>
+    <title>【上園泰雅】のポートフォリオ</title>
     <style>
+        /* スタイルは前回と同じままでOK */
         body {
             font-family: sans-serif;
             text-align: center;
@@ -41,7 +42,7 @@
     </style>
 </head>
 <body>
-    <h1>はじめまして！【上園】です！</h1>
+    <h1>はじめまして！【上園泰雅】です！</h1>
     <p>これは僕（私）のGitHubポートフォリオサイトだよ。</p>
     <p>プログラミングを勉強中！特にPythonとWeb開発に興味があるよ。</p>
 
@@ -49,6 +50,12 @@
         <h2>作品1: はじめてのHTMLページ</h2>
         <p>これは、今回初めて作ったHTMLの練習ページだよ！</p>
         <p>これから、もっと色々な作品を追加していく予定だよ。お楽しみに！</p>
+    </div>
+
+    <div class="project">
+        <h2>作品2: Pythonで作った簡単な計算機</h2>
+        <p>Pythonで足し算・引き算ができる計算機を作ったよ！</p>
+        <p>（将来、ここにそのコードへのリンクや、どんなことができるか説明を書くんだ！）</p>
     </div>
 
     <p>連絡先：<a href="mailto:your_email@example.com">メールはこちら</a></p>
